@@ -1,3 +1,4 @@
+Course completed in 2022 - see course information here: https://3d.bk.tudelft.nl/courses/backup/geo1004/2022/
 # GEO1004 - Readme HW03
 
 Names:
