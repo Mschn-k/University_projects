@@ -1,4 +1,4 @@
-**Delaunay triangles in Digital Terrain Modelling course**
+**Delaunay triangles in Digital Terrain Modelling course 2019**
 
 One of my favorite projects has been the assignment for Digital Terrain Modelling course where I had to write a Python script for a program that would generate Delaunay and Voronoi diagrams according to the points inserted by the user. At the start, we were given the interface where a point was added where the user clicked. However, we had to create a code to determine how edges were drawn and changed as new points were added.
 
