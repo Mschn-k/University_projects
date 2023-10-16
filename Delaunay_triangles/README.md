@@ -4,7 +4,7 @@ One of my favorite projects has been the assignment for Digital Terrain Modellin
 
 Delaunay triangle is formed between 3 points such that neither of the points are inside the circumcircle of another triangle. It is useful because Delaunay triangulations maximise the minimum angle of all the angles of the triangles in the triangulation; they tend to avoid sliver triangles.
 
-![](https://github.com/University_projects/Delaunay_triangles/Delaunay_demo.gif)
+![](https://github.com/Mschn-k/University_projects/blob/main/Delaunay_triangles/Delaunay_demo.gif)
 
 In the animation above the outcome can be seen. For each point that the user inserts, three new triangles are created. Meanwhile, if a triangle is tested not to be Delaunay, it is flipped in order to create a triangle with as large angles as possible. The user interface also allows to switch to the view of Voronoi diagram, shown at the end of the clip. A Voronoi vertex is equidistant from 3 data points. 
 
